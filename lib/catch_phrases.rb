@@ -13,8 +13,13 @@ def link
   puts phrase
 end
 
+<<<<<<< HEAD
 def any_phrase (phrase)
   phrase = "Do A Barrel Roll!"
+=======
+def any_phrase (phrase, any_phrase)
+  puts = "Do A Barrel Roll!#{phrase"
+>>>>>>> 57c90b14cb1ff3755536a6dae9afd9cd1e05f97f
   puts phrase
 end 
 
